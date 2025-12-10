@@ -1,0 +1,5 @@
+metric,baseline,current,target,notes
+Deployment Frequency,2,5,10,Changes per month
+Lead Time for Changes,48,32,12,Hours from commit to production
+Change Failure Rate,25,18,10,% of changes causing incidents
+Mean Time to Recovery,8,5,2,Hours to restore service

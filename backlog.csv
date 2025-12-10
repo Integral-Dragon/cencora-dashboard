@@ -1,0 +1,11 @@
+id,description,team,current_level,target_level,effort,impact,priority,status,owner
+AUTO-001,Automate Wi-Fi validation testing,Edge Networks,0,3,2,5,Quick Win,In Progress,Jane Smith
+AUTO-002,Implement firewall drift detection,Network Security,2,4,4,5,Strategic,In Progress,John Doe
+AUTO-003,Create Terraform modules for NSX,Network Security,1,3,3,4,Strategic,Not Started,
+AUTO-004,Automate VLAN provisioning,Core Networks,0,2,2,4,Quick Win,Not Started,
+AUTO-005,Build API gateway for network services,Core Networks,1,3,4,3,Nice to Have,Not Started,
+AUTO-006,Implement automated backup verification,All Teams,1,3,2,5,Quick Win,Not Started,
+AUTO-007,Create self-service portal for network requests,All Teams,0,3,5,5,Strategic,Not Started,
+AUTO-008,Automate compliance reporting,Network Security,1,4,3,5,Strategic,Not Started,
+AUTO-009,Build chatbot for common network tasks,All Teams,0,2,4,2,Avoid,Not Started,
+AUTO-010,Implement network topology visualization,Core Networks,1,2,3,3,Nice to Have,Not Started,

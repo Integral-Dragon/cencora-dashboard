@@ -1,0 +1,6 @@
+metric,baseline,current,target,notes
+Drug Shipment Lead Time Reduction,7,6.2,4.5,Days to deliver from order
+Patient Access Program Utilization,58,65,80,% increase in program usage
+Inventory Turnover Ratio,8.2,8.8,10.5,Times per year
+Real-Time Data Accuracy,78,85,95,% accuracy in real-time systems
+Digital Platform Adoption Rate,0,42,90,% of employees using new platform

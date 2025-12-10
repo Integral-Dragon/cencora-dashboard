@@ -1,0 +1,11 @@
+week,date,focus,backlog_items,engineers_trained,maturity_improvements,achievements,blockers
+Week 1,2024-12-10,Kickoff & Discovery,5,50,0,Survey completed; baseline metrics established,Access to legacy systems pending
+Week 2,2024-12-17,Maturity Model Introduction,3,50,0.3,Teams completed maturity self-assessment,None
+Week 3,2024-12-24,Level 1: Scripting Fundamentals,2,35,0.2,Git training completed for 35 engineers,Holiday week - reduced attendance
+Week 4,2024-12-31,Level 2: Version Control,4,40,0.4,First shared scripts committed to GitHub,Holiday week - reduced attendance
+Week 5,2025-01-07,Level 3: Infrastructure as Code,3,30,0.3,Terraform training completed; first modules created,None
+Week 6,2025-01-14,Level 4: Safe Patterns,2,25,0.5,Wi-Fi validation pattern design approved,None
+Week 7,2025-01-21,Level 5: Policy & Validation,1,20,0.3,Final maturity assessment completed,None
+Week 8,2025-01-28,Deep Dive: Wi-Fi Validation,0,15,0.4,Wi-Fi automation POC successful,Testing environment delays
+Week 9,2025-02-04,Deep Dive: Firewall Automation,0,15,0.3,Firewall Terraform modules created,Firemon API access issues
+Week 10,2025-02-11,Synthesis & Readout,0,0,0.2,Final presentation delivered to leadership,None

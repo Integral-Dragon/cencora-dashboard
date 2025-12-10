@@ -1,0 +1,5 @@
+team,baseline,week2,week4,week6,week8,week10,target,notes
+Directory & Authentication,1,1,2,2,3,3,4,Good progress on IaC adoption
+Core Networks,1,1,1,2,2,3,3,Need more training support
+Edge Networks (Wi-Fi/LAN),0,1,1,2,2,3,4,Excel validation being automated
+Network Security (Firewalls),2,2,2,3,3,4,4,Firemon integration proceeding well

@@ -1,0 +1,13 @@
+metric,category,baseline,week2,week4,week6,week8,week10,target
+% Employees Completed Digital Training,Adoption,0,15,35,60,80,95,100
+% Active Users of New Platform,Adoption,0,10,25,45,70,85,90
+% Roles with Updated Job Descriptions,Adoption,0,0,20,40,70,90,100
+Number of Change Champions Identified,Adoption,0,5,8,12,15,18,20
+Avg Daily Time in New Platform (hrs),Utilization,0,0.5,1.2,2.5,3.8,5.2,6
+New Platform vs Legacy System Usage Ratio,Utilization,0,0.1,0.3,0.6,0.8,0.9,1
+Number of Digital Workflows Executed,Utilization,0,50,150,350,600,900,1000
+% Transactions Through New System,Utilization,0,5,15,35,60,85,95
+Error Rate in New Process vs Baseline,Proficiency,100,95,80,60,40,25,20
+Time to Complete Task (New vs Old),Proficiency,100,90,75,60,45,35,30
+Data Quality Score (1-5),Proficiency,2,2.5,3,3.5,4,4.3,4.5
+Self-Reported Confidence Level (1-5),Proficiency,2,2.3,2.8,3.2,3.8,4.2,4.5
